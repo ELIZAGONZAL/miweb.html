@@ -1,0 +1,27 @@
+<DOCTYPE html></DOCTYPE>
+<html lang="es"> 
+<head>
+<title>listas no ordenadas</title>
+</head>
+<body>
+    <h1>listas no ordenadas</h1>
+    <!-- listas no ordenadas/viñetas -->
+    <ul>
+        <li>primavera</li>
+        <li>verano</li>
+        <li>otoño</li>
+        <li>invierno</li>
+
+    </ul>
+    <h1>listas ordenadas</h1>
+    <ol>
+        <li>lunes</li>
+        <li>martes</li>
+        <li>miercoles</li>
+        <li>jueves</li>
+        <li>viernes</li>
+        <li>sabado</li>
+        <li>domingo</li>
+    </ol>
+</body>
+</html>
